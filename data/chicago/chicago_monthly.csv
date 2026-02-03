@@ -1,0 +1,501 @@
+subject,city,avg_weekday_rides,monthtotal,avg_sunday_holiday_rides,month_beginning,route,avg_saturday_rides,routename
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hea9~mnuk~zakg,Chicago,7150.3,191162,3558.3,2001-04-01,71,5803.4,71st/South Shore
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tnwk~vv7r-uw6e,Chicago,21175.6,500916,7245.6,2001-02-01,82,12105.2,Kimball-Homan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fsja-euh6-aaht,Chicago,245.9,5410,0.0,2001-01-01,127,0.0,Madison/Roosevelt Circulator
+https://data.cityofchicago.org/resource/bynn-gwxy/row-e4ax-icua~ri55,Chicago,531.9,10638,0.0,2001-02-01,17,0.0,Westchester
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5s26~hsgn-9iyq,Chicago,6445.2,169595,2187.6,2001-03-01,52A,3810.1,South Kedzie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-b9xm_s3se_6da4,Chicago,3967.0,95804,1503.4,2001-02-01,90,2612.5,Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kc4x.u5a8-y5vk,Chicago,12778.5,350112,6495.9,2001-01-01,55,9126.4,Garfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-b7sy-shtu.nm2z,Chicago,2928.1,64417,0.0,2001-01-01,108,0.0,Halsted/95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-p77w-enxd.fyus,Chicago,22720.8,636114,11882.2,2001-03-01,63,17745.8,63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ymsu-bf8f.pxrs,Chicago,206.2,6247,124.1,2001-03-01,173,243.0,U. of Chicago/Lakeview Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tfrh~zb5b.8inz,Chicago,9112.3,182247,0.0,2001-02-01,156,0.0,LaSalle
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5zxz~v4bd~eu2c,Chicago,7910.0,212421,5991.4,2001-02-01,21,7563.8,Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nqve.gec3.pqka,Chicago,1593.3,35053,0.0,2001-01-01,203,0.0,Ridge/Grant
+https://data.cityofchicago.org/resource/bynn-gwxy/row-i4px-grs7.p957,Chicago,16279.6,390526,6168.6,2001-02-01,87,10064.7,87th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-smw9.y9d9~25f7,Chicago,7000.3,180298,1957.5,2001-03-01,65,3692.4,Grand
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gs5a~ha64.8tmt,Chicago,13775.4,324993,5484.3,2001-02-01,76,6886.9,Diversey
+https://data.cityofchicago.org/resource/bynn-gwxy/row-u7ux_7ec2-rt4d,Chicago,20885.2,502001,8920.7,2001-02-01,77,12153.8,Belmont
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ryex_7scy-fccx,Chicago,18443.0,493926,7165.6,2001-01-01,6,13088.2,Jackson Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kc5n_cnck.eea5,Chicago,19911.5,516791,9281.7,2001-04-01,8,13060.0,Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rgkh.gz66.yix5,Chicago,12183.6,322687,5794.3,2001-04-01,28,9465.0,Stony Island
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hk5r-s9pa-rtce,Chicago,918.1,20728,320.2,2001-02-01,171,271.3,U. of Chicago/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tbvq_xpnf~9wkx,Chicago,2120.8,48419,0.0,2001-04-01,93,970.5,California/Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vyiy_exkk~ax48,Chicago,6695.3,169020,1805.7,2001-01-01,65,3173.9,Grand
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8gc6_ra66.ybui,Chicago,3194.8,70285,0.0,2001-03-01,108,0.0,Halsted/95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vh8x~38n4-8tss,Chicago,11592.4,313490,5112.6,2001-01-01,52,8223.9,Kedzie/California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4wen_uf6g.iuiq,Chicago,7320.5,200764,3294.7,2001-03-01,75,5306.7,74th-75th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k4ke~a6dr~95zs,Chicago,9037.4,218700,1417.1,2001-01-01,53A,3198.0,South Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hk2w_ypk3.s45k,Chicago,514.7,10294,0.0,2001-02-01,202,0.0,Main/Emerson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zizu.bfbi-df6b,Chicago,318.9,7412,0.0,2001-01-01,90N,98.7,North Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jdjh-9wrm~a4rq,Chicago,4110.7,93503,861.2,2001-02-01,30,1961.2,South Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-eqwy~geym-c8kc,Chicago,1122.9,24705,0.0,2001-01-01,122,0.0,Illinois Center/Ogilvie Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vimw.vseb-sk59,Chicago,4854.8,132776,2370.7,2001-04-01,51,4742.8,51st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qa9p.mxh4-esj4,Chicago,5805.5,139294,2486.8,2001-02-01,27,3309.5,South Deering
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nimv.87ms.rtcb,Chicago,5650.2,146033,2458.6,2001-04-01,27,3771.7,South Deering
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5jdz.jbcm-ei35,Chicago,333.3,7332,0.0,2001-01-01,49A,0.0,South Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rpw6.77ke.uc79,Chicago,4067.3,100654,922.7,2001-03-01,112,1496.5,Vincennes/111th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-srg7_k6zm_vc3d,Chicago,10603.7,269786,3467.0,2001-01-01,94,4792.6,South California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4ath~s4y6-xp8e,Chicago,10912.0,277684,3106.5,2001-03-01,94,5038.8,South California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ht2u~vuhr_4g5h,Chicago,5484.8,141151,3177.5,2001-02-01,119,4686.4,Michigan/119th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-36wc.cjte.j3yf,Chicago,5162.6,144468,2556.7,2001-01-01,95W,4526.5,West 95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ix6s~b9yi.kunn,Chicago,2249.6,49492,0.0,2001-01-01,39,0.0,Pershing
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pybk.khi5_2y9c,Chicago,8251.8,203824,3809.4,2001-02-01,34,5887.7,South Michigan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-n2u5-46fp~btpz,Chicago,442.4,9733,0.0,2001-03-01,69,0.0,Cumberland/East River
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dj2p_ay4z_j63d,Chicago,12301.4,324477,6120.1,2001-04-01,52,8886.6,Kedzie/California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ymq7_4bbm-3zgq,Chicago,1796.8,45048,443.7,2001-03-01,88,748.5,Higgins
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9x9c~adsv_btc3,Chicago,976.8,19535,0.0,2001-02-01,2,0.0,Hyde Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4iy3~qkea-miu5,Chicago,1831.2,40287,0.0,2001-01-01,86,0.0,Narragansett/Ridgeland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dhnm_siur.46fj,Chicago,1716.0,40805,318.2,2001-04-01,68,794.7,Northwest Highway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-c2p6~arvd~xy85,Chicago,6559.2,162910,1564.6,2001-01-01,44,2696.0,Wallace-Racine
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t28x_ceed_2d9c,Chicago,24309.3,643740,11762.3,2001-04-01,4,18608.4,Cottage Grove
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g7yp_s8gr_aetb,Chicago,18238.5,471177,7509.4,2001-04-01,6,12655.7,Jackson Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-h2tg~8wh5.2tqb,Chicago,3788.5,88429,1232.6,2001-02-01,97,1932.1,Skokie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k36e.9cxk.f4sc,Chicago,6091.2,161636,2549.1,2001-03-01,27,3486.8,South Deering
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5ia4-cm68_5pd4,Chicago,9781.8,239686,1672.9,2001-03-01,53A,3558.8,South Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-njis.hsnd_ac2w,Chicago,480.1,10563,0.0,2001-01-01,202,0.0,Main/Emerson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4ccv_864z~gprt,Chicago,0.0,8991,855.9,2001-01-01,X21,1177.9,Cermak Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-r723-x4zx~z9hm,Chicago,268.7,5912,0.0,2001-03-01,64,0.0,Foster-Canfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8mtb.8upx-3hy2,Chicago,4369.3,100176,1213.7,2001-02-01,84,1983.8,Peterson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t3k8~b3bf~edu6,Chicago,21052.5,551821,9553.9,2001-04-01,66,15487.3,Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5e9y~hc56.6f7i,Chicago,21406.5,567413,8725.3,2001-01-01,3,13210.7,King Drive
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jrtc-868m-9yjf,Chicago,7861.8,237571,5852.5,2001-03-01,21,8240.3,Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-sdxy~e3y4.q8ra,Chicago,673.6,13473,0.0,2001-02-01,33,0.0,Mag Mile Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-h5uj.7m5s_urnr,Chicago,7571.8,166579,0.0,2001-03-01,1,0.0,Indiana/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-b4wv~tt4b.afin,Chicago,6568.3,165038,2381.5,2001-04-01,52A,3799.0,South Kedzie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-urz9-i9ri.xyq3,Chicago,648.9,13626,0.0,2001-04-01,17,0.0,Westchester
+https://data.cityofchicago.org/resource/bynn-gwxy/row-u6hf-kgwd.yy4z,Chicago,11114.2,282150,3046.4,2001-03-01,126,5090.4,Jackson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wmqz~uz6r~q6e5,Chicago,809.2,16993,0.0,2001-04-01,2,0.0,Hyde Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5648.7dp6-5ms5,Chicago,21570.3,566683,8184.0,2001-01-01,20,12804.3,Madison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f28b-dp5z-3y5m,Chicago,1332.0,26640,0.0,2001-02-01,96,0.0,Lunt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4zyv~kmuq-6ggb,Chicago,3681.4,95096,1167.5,2001-01-01,97,2066.7,Skokie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-n7v7-z3jc~2pnw,Chicago,13056.0,336985,5552.8,2001-04-01,85,8761.3,Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jxkn~q4j5~3qnp,Chicago,792.7,17439,0.0,2001-01-01,129,0.0,West Loop/South Loop
+https://data.cityofchicago.org/resource/bynn-gwxy/row-w5sa.6sww-4b6t,Chicago,8666.0,225103,2729.2,2001-03-01,91,4707.0,Austin
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t22e_v6k2_kksh,Chicago,2618.1,57598,0.0,2001-03-01,37,0.0,Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pmyj-k82s~dpaw,Chicago,3412.3,85256,1170.9,2001-04-01,103,1936.0,West 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2426.47qc~6962,Chicago,1392.2,33189,0.0,2001-01-01,62H,640.0,Archer/Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-u8na~rsz2~cy9r,Chicago,1413.8,35445,282.5,2001-03-01,201,642.2,Central/Ridge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6hwq.rvkq-3aw9,Chicago,15751.5,404463,9224.7,2001-02-01,36,13133.7,Broadway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9pi9_fe3a.w4rw,Chicago,1971.1,43364,0.0,2001-03-01,86,0.0,Narragansett/Ridgeland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vvkc~tiah.3zrx,Chicago,16133.1,412772,6068.6,2001-04-01,87,10908.4,87th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-p7sp_6uei.wgj8,Chicago,404.6,9114,0.0,2001-04-01,90N,154.6,North Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yetf-npx6.g7k3,Chicago,20291.7,527712,9374.7,2001-04-01,77,13678.0,Belmont
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nn72-qsth~dmqp,Chicago,3279.0,65581,0.0,2001-02-01,157,0.0,Streeterville/Taylor
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kwty~swku~k7ga,Chicago,7911.6,214933,3580.5,2001-01-01,34,5744.2,South Michigan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6g3f-isjy.zb3x,Chicago,5773.6,147020,3102.1,2001-02-01,95E,4785.1,93rd-95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f8m7.a4jj-equ9,Chicago,6074.4,157849,2062.4,2001-01-01,111,3474.9,Pullman/111th/115th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kyhd.6s85.gj6p,Chicago,2187.0,43741,0.0,2001-02-01,86,0.0,Narragansett/Ridgeland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-c5ab_je6j_pr3z,Chicago,15564.3,402652,4971.4,2001-03-01,62,8070.4,Archer
+https://data.cityofchicago.org/resource/bynn-gwxy/row-24er.mdbf.exxi,Chicago,4994.3,127491,1372.4,2001-01-01,73,2688.6,Armitage
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5mgh-kpjy~q8sz,Chicago,1176.1,24698,0.0,2001-04-01,96,0.0,Lunt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8txm.5tdw-bybz,Chicago,6361.6,151009,2243.8,2001-02-01,111,3700.4,Pullman/111th/115th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7b6i-565k~6tsu,Chicago,3794.3,93440,1211.3,2001-04-01,11,1926.0,Lincoln/Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ucny_xi4x.qx27,Chicago,274.5,6040,0.0,2001-03-01,25,0.0,West Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kbfb_68r2~7ww6,Chicago,5712.1,154050,3175.5,2001-04-01,95E,4554.7,93rd-95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hysv-v2h3~iis6,Chicago,14732.9,355380,6289.6,2001-02-01,56,8891.0,Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-peeq_azyq-csg8,Chicago,22432.2,618796,10662.2,2001-01-01,4,17994.0,Cottage Grove
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ai73.sr2t_hjqd,Chicago,6994.1,176272,1662.5,2001-03-01,44,3150.3,Wallace-Racine
+https://data.cityofchicago.org/resource/bynn-gwxy/row-uqjj-b9du.jbni,Chicago,3606.1,82644,969.2,2001-02-01,11,1661.2,Lincoln/Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iehj_y98w~t475,Chicago,9793.7,213739,1508.8,2001-02-01,53A,2957.6,South Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gtry_x3u6_qqzg,Chicago,9123.0,203852,0.0,2001-02-01,147,5347.7,Outer Drive Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hhg4.723t~3q2r,Chicago,11000.4,267751,5125.9,2001-02-01,12,6809.7,Roosevelt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-u9vf-whsq-bi9h,Chicago,15266.9,379009,5453.1,2001-04-01,62,7784.5,Archer
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xigz-4h3q~8vbg,Chicago,322.0,6273,368.4,2001-01-01,19,327.1,United Center Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ujc2_qjbv-jjwi,Chicago,1685.9,43079,732.2,2001-04-01,18,1003.6,16th/18th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-67vr-vxyv-p4dw,Chicago,9725.6,204237,0.0,2001-04-01,14,0.0,Jeffery Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qkai.bkwe-ycsi,Chicago,8682.0,196929,2024.0,2001-02-01,145,3798.2,Wilson/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-mkh8.5tbc.42cg,Chicago,8288.6,204625,2601.5,2001-04-01,91,4389.1,Austin
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7gsf_w2d7~xciz,Chicago,852.6,17365,0.0,2001-02-01,169,78.0,69th-UPS Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-mxr3.2ztw_74iv,Chicago,444.1,8882,0.0,2001-02-01,49A,0.0,South Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-umnx~br3a.5a52,Chicago,862.0,18964,0.0,2001-03-01,2,0.0,Hyde Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iidn-a87j.9wkv,Chicago,15732.2,415524,5571.5,2001-01-01,87,10389.7,87th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5w8c-icx8.tgpk,Chicago,1823.8,36476,0.0,2001-02-01,203,0.0,Ridge/Grant
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4xhx_cnt9_cuqg,Chicago,31563.9,878433,16119.4,2001-03-01,9,23909.9,Ashland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-smad-5vnd-axgh,Chicago,3852.0,87493,1155.9,2001-02-01,103,1457.5,West 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-97xg~g5qv~3svp,Chicago,19086.8,512929,7180.5,2001-03-01,6,12859.5,Jackson Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ush8.56tm_vy9k,Chicago,2317.8,55265,398.4,2001-01-01,106,570.3,East 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qite.nwpm-uxrn,Chicago,6804.6,184874,3832.6,2001-04-01,75,5703.4,74th-75th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5i8i_vewk.f3i8,Chicago,3286.8,93228,1586.4,2001-03-01,8A,2914.5,South Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5ywf_xw78~h7d8,Chicago,1454.0,35528,0.0,2001-03-01,62H,708.1,Archer/Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-38mv_wpr5-dqe7,Chicago,12655.2,333407,6194.3,2001-04-01,80,9169.1,Irving Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-e6vr_ciyz~etmz,Chicago,800.8,16817,0.0,2001-04-01,123,0.0,Illinois Center/Union Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jmjd.d7d6~xbae,Chicago,4357.5,111265,1145.6,2001-01-01,84,2418.1,Peterson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ahmg_v52j.3nw7,Chicago,5504.4,121097,0.0,2001-01-01,7,0.0,Harrison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hk4f_5zsu.qjk9,Chicago,7310.8,203634,3438.3,2001-03-01,71,5808.5,71st/South Shore
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rr77~y935.f7nk,Chicago,1445.4,31798,0.0,2001-01-01,204,0.0,Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-q8pv~cax5.ht9a,Chicago,568.5,11938,0.0,2001-01-01,56A,0.0,North Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cbh6-2hsg-8etg,Chicago,237.9,5233,0.0,2001-03-01,170,0.0,U. of Chicago/Midway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8uup.vjdx-kfky,Chicago,14023.4,345328,6819.6,2001-02-01,60,9395.7,Blue Island/26th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fcke.4bdy~b34n,Chicago,337.2,7419,0.0,2001-01-01,64,0.0,Foster-Canfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qbvs-xy3q-yp6u,Chicago,393.4,8262,0.0,2001-04-01,69,0.0,Cumberland/East River
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zh22~a3jq.fjcn,Chicago,10568.6,279647,5694.7,2001-04-01,12,7308.0,Roosevelt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-x5z2~qvj9.h9wh,Chicago,299.3,5986,0.0,2001-02-01,64,0.0,Foster-Canfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-saqs_3pv5.5xz3,Chicago,879.8,17802,0.0,2001-02-01,85A,51.8,North Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k758.sn86-amfk,Chicago,0.0,148,0.0,2001-02-01,128,148.1,Soldier Field Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4hxx.u6am~qbd9,Chicago,2293.3,53696,404.8,2001-04-01,63W,878.4,West 63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-quif.5d5z_tyse,Chicago,1313.7,28902,0.0,2001-03-01,48,0.0,South Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9j5e~ysyc-2x4e,Chicago,1351.0,34213,354.8,2001-01-01,43,679.3,43rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k8hf-a2e2_spkp,Chicago,952.5,21550,0.0,2001-01-01,85A,148.7,North Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-di7m-jdkb-q3hs,Chicago,12226.5,337442,5549.4,2001-03-01,52,9252.4,Kedzie/California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9yz9~pedp~u98s,Chicago,21416.6,583672,12930.8,2001-04-01,63,17317.6,63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jskk.9kjb~xkkv,Chicago,17093.7,453521,5650.0,2001-03-01,87,10971.7,87th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2xac-c4fs.cq4w,Chicago,8718.2,220934,2072.9,2001-03-01,145,4168.7,Wilson/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ige5-bnmt~kqis,Chicago,15459.7,420979,8943.3,2001-04-01,81,12902.1,Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xfuf~2n6q-9stv,Chicago,4669.2,102721,0.0,2001-03-01,24,0.0,Wentworth
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yug9-texr.9rdh,Chicago,5654.3,113085,0.0,2001-02-01,X49,0.0,Western Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wfjv~g2y7_8ch9,Chicago,5124.6,126263,2348.6,2001-02-01,51,3593.9,51st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vw3q-vwk2~uutu,Chicago,0.0,10639,1100.0,2001-02-01,X21,1559.9,Cermak Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-r2my~57qj-4kdb,Chicago,1120.6,24654,0.0,2001-01-01,48,0.0,South Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iwwq-mirn-6igd,Chicago,23226.0,564037,10136.2,2001-02-01,3,14743.0,King Drive
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ius8.nvm9_zt54,Chicago,13118.1,369482,6419.1,2001-03-01,74,11041.7,Fullerton
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fmb9_j6r9-4mut,Chicago,1390.6,31879,358.1,2001-02-01,43,658.6,43rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dhtx.mj9r-dr88,Chicago,5150.2,138538,2091.2,2001-03-01,49B,3373.9,North Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iedh-222x~xk2m,Chicago,22932.3,580890,12559.4,2001-02-01,63,18001.7,63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pbvv-4st3~r3vd,Chicago,144.8,3186,0.0,2001-01-01,25,0.0,West Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t8hb~spm9~6qey,Chicago,7401.4,148028,0.0,2001-02-01,1,0.0,Indiana/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pnpj_hedv_fmgb,Chicago,3104.7,62094,0.0,2001-02-01,108,0.0,Halsted/95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dtw4.cx9r-cujz,Chicago,14598.5,369563,5583.1,2001-04-01,76,8769.4,Diversey
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ihyp~ykr8.f849,Chicago,12315.9,340221,6234.8,2001-03-01,80,8866.3,Irving Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bu9d-beug~m96x,Chicago,3958.2,108971,1618.7,2001-03-01,90,3083.3,Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7fiv.4vya~5uic,Chicago,3687.8,94029,1364.8,2001-04-01,97,2440.6,Skokie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-q8bb.8stg-e8rj,Chicago,5292.7,111146,0.0,2001-04-01,7,0.0,Harrison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5eyj~b8v8~shjh,Chicago,10761.9,246048,2817.7,2001-02-01,126,4884.7,Jackson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9h3u.ckwh~wyjw,Chicago,2055.4,45218,0.0,2001-01-01,136,0.0,Sheridan/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-id4h-h8cn~wmy6,Chicago,21244.5,546252,9045.4,2001-04-01,20,13722.4,Madison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2h6r~atkx_nuha,Chicago,21001.5,557759,8478.8,2001-01-01,66,13332.8,Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6tpf.d8bi.xuf3,Chicago,1535.7,37709,362.2,2001-04-01,81W,911.9,West Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nxt7~m4ia~rxee,Chicago,7423.7,218216,4781.0,2001-01-01,21,7747.2,Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-s8mm.bcr5_pfqi,Chicago,657.9,13816,0.0,2001-04-01,56A,0.0,North Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-p3w4.5tex.z6vk,Chicago,4260.5,102622,0.0,2001-01-01,59,2222.6,59th/61st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zmsr~tprf_y8tx,Chicago,890.2,20116,46.6,2001-01-01,172,74.4,U. of Chicago/Kenwood
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gct3~7u6m.vrfj,Chicago,0.0,7010,534.1,2001-03-01,10,974.8,Museum of S & I
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jy2y-rxm8.vryi,Chicago,15783.4,389332,7612.3,2001-02-01,72,10803.7,North
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jj74~zu7z_skc4,Chicago,13365.0,371515,7085.0,2001-03-01,55,9828.9,Garfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-mkim~xxqx.zhr6,Chicago,948.2,23436,253.2,2001-03-01,171,312.5,U. of Chicago/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3bug.xqyh-yjjf,Chicago,2621.3,57669,0.0,2001-01-01,135,0.0,Clarendon/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vznv_h8w9-ccpk,Chicago,770.2,16944,0.0,2001-01-01,33,0.0,Mag Mile Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dpxc.qr5c.scwc,Chicago,22559.6,601687,8496.7,2001-03-01,20,14278.0,Madison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-j8hv~p3yf~y9pi,Chicago,6190.3,162549,2076.3,2001-03-01,35,3611.6,35th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-x3rs~2trg~vzxx,Chicago,13381.0,337853,7385.9,2001-02-01,74,10172.3,Fullerton
+https://data.cityofchicago.org/resource/bynn-gwxy/row-idji_3eur_6dtm,Chicago,13188.5,346996,4850.7,2001-01-01,85,8148.9,Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-r2wu~7x7x_y29k,Chicago,23086.4,551849,8935.2,2001-02-01,20,13594.9,Madison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5b2f.kada~jn6w,Chicago,2351.2,57701,0.0,2001-03-01,93,1194.8,California/Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6u4q~hspu.zuik,Chicago,1632.8,34288,0.0,2001-04-01,86,0.0,Narragansett/Ridgeland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yuur-pcx7~zjv2,Chicago,5394.1,156025,2933.8,2001-03-01,119,5124.0,Michigan/119th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-uu5p_b8d9-v7sk,Chicago,222.9,4458,0.0,2001-02-01,25,0.0,West Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g4cd_957u~kvzu,Chicago,20442.8,553054,9257.3,2001-03-01,8,13256.7,Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zucg_t2yb_37dw,Chicago,5729.1,126040,0.0,2001-03-01,7,0.0,Harrison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vg88.jzp3_ajm5,Chicago,22111.6,537359,9369.9,2001-02-01,53,14411.7,Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-w4h4.5mg6_9bi4,Chicago,21182.7,565492,8251.7,2001-03-01,66,13293.3,Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3hnt-24ns.45rg,Chicago,181.7,3997,0.0,2001-03-01,127,0.0,Madison/Roosevelt Circulator
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pxdd.wi5i.tuvc,Chicago,5087.6,133958,1954.1,2001-01-01,49B,3065.0,North Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bz3f_hw65-hf5p,Chicago,2500.6,55014,0.0,2001-01-01,37,0.0,Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-m6zy~q9yk-k3f3,Chicago,7830.2,210454,3991.8,2001-04-01,34,6515.1,South Michigan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-eypi~2bma-6dk2,Chicago,1000.0,22001,0.0,2001-01-01,2,0.0,Hyde Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vid5-kpbm_9aka,Chicago,19337.2,467758,7917.8,2001-02-01,6,12335.8,Jackson Park Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-whig_q2t7~4uhq,Chicago,9039.1,198859,0.0,2001-01-01,156,0.0,LaSalle
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9wvd_uagr_pk3b,Chicago,6043.6,141693,1942.6,2001-02-01,35,3262.6,35th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-d6xm.t6pd_8t32,Chicago,466.2,4109,305.9,2001-04-01,19,860.7,United Center Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-65wd_mv6z_x3kz,Chicago,5171.2,147205,2890.1,2001-01-01,119,4747.3,Michigan/119th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-n7rv.v26v_rdse,Chicago,1092.6,24038,0.0,2001-03-01,122,0.0,Illinois Center/Ogilvie Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nrii_zmxr-szx9,Chicago,3725.6,95692,1088.1,2001-03-01,11,1875.1,Lincoln/Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5e2k_7fxn-y2u4,Chicago,1345.0,26900,0.0,2001-02-01,121,0.0,Union/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t9df.2vj3-2tze,Chicago,4313.0,108687,1395.9,2001-04-01,84,2783.4,Peterson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wvqm-fv9x-n9an,Chicago,14450.2,381072,7471.6,2001-04-01,67,10065.0,67th-69th-71st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-s9yw_ggvw.qsu9,Chicago,10951.8,250835,3431.3,2001-02-01,94,4518.5,South California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8at4.vey4.8maw,Chicago,252.5,7703,169.4,2001-02-01,173,493.9,U. of Chicago/Lakeview Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f8zu.ehyp.pm2q,Chicago,22534.9,622370,11678.0,2001-03-01,22,15977.9,Clark
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yfvz.vd5g-rgr5,Chicago,13173.1,365786,6018.0,2001-03-01,28,10381.4,Stony Island
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jepk-s497_mvjw,Chicago,7283.4,198930,3555.3,2001-01-01,155,5229.9,Devon
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fd5p~scmm~eqh6,Chicago,394.9,8292,0.0,2001-04-01,49A,0.0,South Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yzhj_ifnc_uxmq,Chicago,0.0,7915,511.2,2001-03-01,X21,1174.0,Cermak Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4qyu-vnqd.ssz5,Chicago,11387.9,309052,5398.4,2001-03-01,12,7384.8,Roosevelt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wkky~q4v4~3qvn,Chicago,31183.8,784087,16717.4,2001-02-01,9,23385.3,Ashland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-d67p.3q82~t3i9,Chicago,6868.3,156050,1706.3,2001-02-01,65,2964.6,Grand
+https://data.cityofchicago.org/resource/bynn-gwxy/row-j9xf-dcxp_h98z,Chicago,2234.9,48975,424.3,2001-02-01,63W,644.8,West 63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fp44.f8v4_qqze,Chicago,6475.3,156748,1669.7,2001-04-01,44,3104.4,Wallace-Racine
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f829_pnpt.34qt,Chicago,0.0,3721,317.1,2001-04-01,X21,711.7,Cermak Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xvza_f7we.zsvm,Chicago,31981.4,903294,17012.3,2001-03-01,79,26330.6,79th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-awkn~vfne~ymmg,Chicago,2242.9,44859,0.0,2001-02-01,39,0.0,Pershing
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hyzr~d2nc_pr7v,Chicago,2850.0,62701,0.0,2001-03-01,135,0.0,Clarendon/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rf2w_rkxj-59tc,Chicago,9341.3,223386,3336.4,2001-02-01,78,5803.6,Montrose
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3nff_rzzg_dts8,Chicago,15145.2,377721,7563.9,2001-02-01,81,11140.3,Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2k8r-gzdp~5r8v,Chicago,1237.9,29973,355.7,2001-04-01,43,549.7,43rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xypj-p4yp-xi5q,Chicago,2196.4,53094,378.2,2001-01-01,63W,720.5,West 63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5zry~i58d_9m96,Chicago,5881.4,167062,3213.3,2001-03-01,95E,4963.7,93rd-95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ukyp~decf-pfuh,Chicago,1690.8,37197,0.0,2001-03-01,204,0.0,Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8a82~4gqe~ignm,Chicago,14219.5,387336,7025.6,2001-01-01,67,9844.6,67th-69th-71st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-39zk_is6c_78cm,Chicago,14751.9,405256,6835.8,2001-03-01,60,10674.1,Blue Island/26th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gtej~3n5m_tzzd,Chicago,30018.4,833507,15573.7,2001-01-01,79,23808.6,79th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nxz5.p4g3.fchj,Chicago,14908.6,407048,6832.9,2001-03-01,67,10345.6,67th-69th-71st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fs8y.tfd5-x9z3,Chicago,1138.3,25869,0.0,2001-03-01,55N,165.4,55th/Narragansett
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jasy-6id4_64cq,Chicago,20346.4,524259,8297.1,2001-04-01,82,13874.5,Kimball-Homan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4hjz-i4wa-ua49,Chicago,476.1,9999,0.0,2001-04-01,25,0.0,West Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5hjv.6m2u_htkj,Chicago,995.0,21408,0.0,2001-04-01,55N,128.3,55th/Narragansett
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nts2.cdeu~4iqx,Chicago,4403.2,88063,0.0,2001-02-01,24,0.0,Wentworth
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fdsg~vrc3-fd8w,Chicago,11575.7,289472,2518.9,2001-03-01,152,4946.1,Addison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nf9j_ij5s~ckss,Chicago,983.3,22537,644.9,2001-03-01,19,2112.2,United Center Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gixz.rxzk.ru9c,Chicago,8338.0,231390,4215.2,2001-03-01,34,6218.6,South Michigan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qvun.ajyr.pnhn,Chicago,2075.4,47570,618.7,2001-02-01,18,896.8,16th/18th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-as2e-rkgm.4xip,Chicago,633.7,13941,0.0,2001-03-01,56A,0.0,North Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-p7zx_2v8y.ed2t,Chicago,3042.6,75668,616.1,2001-01-01,57,1412.8,Laramie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pw5w~2dfk.2iqj,Chicago,9540.6,209894,0.0,2001-03-01,14,0.0,Jeffery Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ug5k~tw43.d65f,Chicago,1256.2,27636,0.0,2001-03-01,100,0.0,Jeffery Manor Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-urje~ijsn~6knr,Chicago,15360.0,436950,8687.4,2001-01-01,36,13898.6,Broadway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cyjc~jqg8~ummz,Chicago,5348.8,138913,3093.9,2001-02-01,95W,4890.2,West 95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yu9e-patf-gwyx,Chicago,2957.9,62117,0.0,2001-04-01,108,0.0,Halsted/95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wwhy~6hnz-dcud,Chicago,1954.1,42990,0.0,2001-03-01,136,0.0,Sheridan/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qz9t_5h72_28ss,Chicago,5629.5,147904,2423.6,2001-01-01,27,2984.1,South Deering
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ytxh_amb5.atqc,Chicago,21323.3,566396,7651.3,2001-03-01,82,13335.5,Kimball-Homan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5ytt-znxi-uzv3,Chicago,15473.0,355110,4642.1,2001-02-01,62,6770.3,Archer
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5kbz~q6ip.xxyz,Chicago,1293.9,25878,0.0,2001-02-01,48,0.0,South Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-izqj.c7ga~qzgv,Chicago,9353.5,241049,2918.6,2001-03-01,50,4719.6,Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bszv~ysju_p7t3,Chicago,2228.0,53246,0.0,2001-01-01,93,1057.5,California/Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5hr7_b3hy~g7jr,Chicago,4991.5,137759,2511.7,2001-04-01,54B,5094.7,South Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2msg~gism_ig33,Chicago,1579.5,38614,286.5,2001-01-01,68,608.1,Northwest Highway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hemt_74kj-nuyh,Chicago,0.0,4416,470.3,2001-02-01,10,633.7,Museum of S & I
+https://data.cityofchicago.org/resource/bynn-gwxy/row-52y2-mbh8_xhy8,Chicago,5320.6,120886,1419.2,2001-02-01,73,2199.4,Armitage
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rqq9-s46h~adpz,Chicago,4654.8,127952,2169.4,2001-01-01,51,3675.0,51st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yqx4~nsrs~ahdz,Chicago,3874.0,95661,935.1,2001-01-01,112,1439.3,Vincennes/111th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tbg8_hmqh.utja,Chicago,24342.7,614464,12396.5,2001-02-01,49,19506.1,Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xtmb-uun4-24m5,Chicago,287.1,6315,0.0,2001-01-01,170,0.0,U. of Chicago/Midway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jsws.xj8w_87ji,Chicago,8839.3,204453,2818.2,2001-02-01,50,4098.7,Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-z7ti-fjrp-7t5i,Chicago,12138.9,334903,5940.5,2001-01-01,54,9536.3,Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kwpt.qg3g_7m7c,Chicago,1167.0,25673,0.0,2001-01-01,100,0.0,Jeffery Manor Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-r7qy.nrum-vvf5,Chicago,4436.6,102399,0.0,2001-04-01,59,2307.4,59th/61st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8iry.sa9a_3pee,Chicago,6016.4,132360,0.0,2001-03-01,X49,0.0,Western Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9cvh~pfb3-w4fa,Chicago,9819.9,263590,3860.6,2001-03-01,146,6422.2,Inner Drive/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-98w9.92ja.guqm,Chicago,10129.2,255239,2650.5,2001-01-01,126,4785.9,Jackson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tbn2_tvhy_hcu5,Chicago,2323.6,56594,427.3,2001-03-01,63W,753.2,West 63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-neix~5595-8guc,Chicago,0.0,501,167.1,2001-03-01,128,0.0,Soldier Field Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8bnx~3gbv~yiis,Chicago,21849.7,540279,11108.6,2001-02-01,22,14712.5,Clark
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7eez_i3w2.tu6c,Chicago,12839.5,341724,6890.2,2001-04-01,54,9410.9,Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f9zn~vwx6_karj,Chicago,4003.7,89438,965.9,2001-02-01,112,1374.8,Vincennes/111th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cqnz-x6sy-npz6,Chicago,3170.6,87040,1721.4,2001-04-01,8A,2962.7,South Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-756z-vwqh_cwqa,Chicago,885.9,19704,0.0,2001-01-01,169,53.7,69th-UPS Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tcue.t5r6_8mq8,Chicago,8583.5,218421,2384.8,2001-01-01,91,4415.0,Austin
+https://data.cityofchicago.org/resource/bynn-gwxy/row-598b.a4qn.3gam,Chicago,17241.6,461607,9303.4,2001-04-01,29,13254.5,State
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fc34.iamc_a4ge,Chicago,1120.6,23532,0.0,2001-04-01,100,0.0,Jeffery Manor Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vxqb~ahss~j6d7,Chicago,10763.5,288055,4691.0,2001-01-01,12,6950.6,Roosevelt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jh5a.w5rp-uqeh,Chicago,3701.9,98343,1369.2,2001-03-01,97,2284.9,Skokie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gaij.ghrr~fenc,Chicago,7303.0,182199,3888.0,2001-02-01,155,5146.8,Devon
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zvtr_yq5u.bnc6,Chicago,1293.1,28449,0.0,2001-03-01,96,0.0,Lunt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pwk2~q7e7-rbqh,Chicago,7675.1,210621,3791.9,2001-03-01,155,5320.0,Devon
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6t9z.y4xu_eipd,Chicago,1071.8,24237,0.0,2001-01-01,55N,164.4,55th/Narragansett
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wq3b~m8wd.q9tu,Chicago,1721.8,43101,523.9,2001-01-01,88,650.3,Higgins
+https://data.cityofchicago.org/resource/bynn-gwxy/row-z2i5-2vw2-ui7m,Chicago,5084.5,148677,2753.9,2001-03-01,54B,5160.6,South Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xzxt-ndvd~axvs,Chicago,7906.6,206363,2606.7,2001-03-01,92,4398.3,Foster
+https://data.cityofchicago.org/resource/bynn-gwxy/row-82s5_7m6z_u78e,Chicago,14717.0,362682,7177.1,2001-02-01,67,9908.3,67th-69th-71st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-47pv.diff~faug,Chicago,15016.9,418491,9602.4,2001-04-01,36,13780.9,Broadway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zddu~uyqz~8qjz,Chicago,5039.0,122332,2091.9,2001-02-01,49B,3296.3,North Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-q58z-uriu_q9zm,Chicago,3837.4,93261,704.2,2001-04-01,30,2288.4,South Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dack-v4it.auk3,Chicago,15492.3,420547,7307.1,2001-03-01,56,10097.6,Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bdu6~9yfe.qbqw,Chicago,15298.6,431828,8143.2,2001-03-01,81,12536.9,Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2w2m.nzji-8i3r,Chicago,6982.6,153617,0.0,2001-01-01,1,0.0,Indiana/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xvq2~v7p7.vqi4,Chicago,7623.9,226926,6465.1,2001-04-01,21,8625.0,Cermak
+https://data.cityofchicago.org/resource/bynn-gwxy/row-puwy-giam.ehs4,Chicago,3646.4,88667,1145.3,2001-04-01,112,1591.6,Vincennes/111th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-defe.x5yz-78dy,Chicago,13016.8,323328,6677.5,2001-02-01,54,9070.8,Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4hd2.qhek-ice3,Chicago,3823.5,95218,652.2,2001-01-01,30,1960.2,South Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-p97t.iefs~vuh7,Chicago,23604.8,634324,11694.7,2001-01-01,151,14136.3,Sheridan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-d97u~89ea.yxmu,Chicago,7136.7,194863,3119.0,2001-01-01,71,5565.3,71st/South Shore
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6dvv.7f56_9ez5,Chicago,5310.4,111517,0.0,2001-04-01,X49,0.0,Western Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vwqb~ezyy_inz5,Chicago,8657.9,239264,3835.8,2001-03-01,47,6689.2,47th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bzmj.6qbw-uzpp,Chicago,1505.2,35286,444.0,2001-02-01,81W,851.7,West Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6ef7~scmr~ayye,Chicago,1210.6,26633,0.0,2001-01-01,121,0.0,Union/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hnw4.dx8p~h7zc,Chicago,14274.6,381555,6174.4,2001-01-01,56,9160.4,Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nttc~smw9_hnip,Chicago,540.7,10814,0.0,2001-02-01,56A,0.0,North Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g462-7tvs-epi5,Chicago,12412.4,303947,5632.1,2001-02-01,52,8292.8,Kedzie/California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-isri_hh8y_k4me,Chicago,13316.8,320389,5260.9,2001-02-01,85,8252.3,Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-z6uj~gfke-5sjg,Chicago,9323.1,240427,3821.1,2001-04-01,78,6384.2,Montrose
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4gb2_detk-igfe,Chicago,4818.1,123486,2589.8,2001-02-01,54B,4191.1,South Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4iab.nwgv_5zcd,Chicago,982.4,22245,62.6,2001-03-01,172,76.3,U. of Chicago/Kenwood
+https://data.cityofchicago.org/resource/bynn-gwxy/row-h2kb.542k.vqxc,Chicago,2221.2,48866,0.0,2001-03-01,125,0.0,Water Tower Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-68ry~95hp_6fei,Chicago,1314.6,29896,341.8,2001-02-01,201,559.2,Central/Ridge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jq8y.qpxr.q6hq,Chicago,11102.5,301077,5264.0,2001-01-01,70,7625.8,Division
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iu9j_pr99_yq9q,Chicago,2938.4,71205,689.9,2001-04-01,57,1512.5,Laramie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3qcy.j2px~2cp5,Chicago,10967.6,270554,5658.5,2001-02-01,70,7142.3,Division
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jurn-yw29_gh6x,Chicago,21917.1,568992,9533.3,2001-04-01,3,15266.7,King Drive
+https://data.cityofchicago.org/resource/bynn-gwxy/row-aqvz~ktzz-syxn,Chicago,15970.2,423154,8339.9,2001-04-01,72,11519.9,North
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ydwe~5wvb_58j5,Chicago,13511.7,361091,7514.6,2001-04-01,55,9943.0,Garfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zyxc.ni9p.nink,Chicago,309.9,7604,0.0,2001-03-01,90N,157.2,North Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ckv7-wnqi.huu4,Chicago,437.0,9614,0.0,2001-03-01,49A,0.0,South Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vpaa-henb~4ci8,Chicago,16133.3,442762,7688.1,2001-03-01,72,11415.2,North
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2xyd-7aft~zupd,Chicago,3156.4,80416,684.9,2001-03-01,57,1646.9,Laramie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2vrk.e7d2-5eix,Chicago,7414.5,191196,2316.9,2001-01-01,92,4123.2,Foster
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ewf8~wzev_5f42,Chicago,8891.8,235297,3274.2,2001-01-01,78,5826.3,Montrose
+https://data.cityofchicago.org/resource/bynn-gwxy/row-asw3.prwm.euug,Chicago,15571.8,452183,9019.4,2001-03-01,36,14705.2,Broadway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-w22h-ddez-jbrd,Chicago,514.5,11319,0.0,2001-01-01,17,0.0,Westchester
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ns4x-c6ai.9a6e,Chicago,1134.8,23832,0.0,2001-04-01,120,0.0,Ogilvie/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-knf7.srvz_6d7j,Chicago,4966.5,138600,2092.8,2001-03-01,51,4193.2,51st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7xr5.97m9.c7b4,Chicago,9355.1,242849,3117.4,2001-01-01,146,5362.4,Inner Drive/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-22ig_d786_hdg8,Chicago,2703.5,54070,0.0,2001-02-01,135,0.0,Clarendon/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-smuu.zt32-cywd,Chicago,2255.8,49629,0.0,2001-03-01,39,0.0,Pershing
+https://data.cityofchicago.org/resource/bynn-gwxy/row-srw3_v8ui-4uf9,Chicago,24463.9,682721,11761.6,2001-03-01,4,19493.7,Cottage Grove
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2m7k-q9s7~raf8,Chicago,11210.9,249850,2243.2,2001-02-01,152,4164.6,Addison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pke9.pyp3_kps6,Chicago,11964.9,336246,5587.8,2001-01-01,28,11269.6,Stony Island
+https://data.cityofchicago.org/resource/bynn-gwxy/row-s4y5_c8td-cz6b,Chicago,5919.1,154232,1925.5,2001-01-01,52A,3596.1,South Kedzie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ugb7~t3pn.8jw7,Chicago,8866.3,221429,2997.4,2001-04-01,50,5062.4,Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-h3zu.psrj-ijx7,Chicago,7381.3,178935,3080.6,2001-02-01,75,4746.8,74th-75th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6tfq_y7er_qg3m,Chicago,5131.8,112899,0.0,2001-01-01,X49,0.0,Western Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-y5m2_bnef.zavi,Chicago,3315.2,72933,0.0,2001-01-01,157,0.0,Streeterville/Taylor
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jjc4.u42j~g8tp,Chicago,2385.0,47699,0.0,2001-02-01,125,0.0,Water Tower Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-w6q7.ecww.fpbt,Chicago,9481.0,253905,3608.6,2001-03-01,78,6177.6,Montrose
+https://data.cityofchicago.org/resource/bynn-gwxy/row-m5y4~6gre.wn83,Chicago,1343.2,29550,0.0,2001-01-01,96,0.0,Lunt
+https://data.cityofchicago.org/resource/bynn-gwxy/row-y3gm_g4q7.5qae,Chicago,9133.8,214091,1740.3,2001-04-01,53A,3395.1,South Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-edci.3jid.5u8f,Chicago,5684.4,113688,0.0,2001-02-01,7,0.0,Harrison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jrvs.ymiu-qggn,Chicago,32205.8,805623,16737.1,2001-02-01,79,23639.8,79th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vxhr-6atn_6j2u,Chicago,864.9,21573,178.3,2001-01-01,171,413.2,U. of Chicago/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cbrr-bm4n_n53b,Chicago,2230.3,46837,0.0,2001-04-01,39,0.0,Pershing
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yvda.hjnr~5g7h,Chicago,8322.7,213128,2470.1,2001-01-01,50,4419.7,Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-quke_3nxj~jkwa,Chicago,1700.7,37416,0.0,2001-03-01,203,0.0,Ridge/Grant
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g8i7.q7ge_dpdz,Chicago,5292.0,156267,3095.5,2001-03-01,95W,5492.3,West 95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3mru~bxcz~igqw,Chicago,5229.4,140800,2596.9,2001-04-01,95W,4499.5,West 95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8tp8_iuh8.2txg,Chicago,19856.3,529774,8400.0,2001-01-01,77,12733.9,Belmont
+https://data.cityofchicago.org/resource/bynn-gwxy/row-esd5.jsu7-zbb7,Chicago,1958.3,39165,0.0,2001-02-01,136,0.0,Sheridan/LaSalle Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gekv~mk3d_4f4m,Chicago,1332.3,27979,0.0,2001-04-01,54A,0.0,North Cicero/Skokie Blvd.
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hevk_st9r_e7sg,Chicago,0.0,5913,441.1,2001-04-01,10,926.8,Museum of S & I
+https://data.cityofchicago.org/resource/bynn-gwxy/row-d6u2_5qch_if7c,Chicago,8812.6,215649,0.0,2001-01-01,147,5443.1,Outer Drive Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zx5c_tqz7-uqmh,Chicago,4203.3,106308,707.4,2001-03-01,30,2201.1,South Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-avnd.adqm-x79h,Chicago,2593.3,51866,0.0,2001-02-01,37,0.0,Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-naa9~h7vj.k4aa,Chicago,22336.2,612322,10142.3,2001-03-01,53,16071.4,Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9e2t~8rkh.wtj2,Chicago,3480.0,76560,0.0,2001-03-01,157,0.0,Streeterville/Taylor
+https://data.cityofchicago.org/resource/bynn-gwxy/row-m7za.sts2~ghph,Chicago,1758.8,38803,257.5,2001-02-01,68,649.5,Northwest Highway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tug5~wd2b_y76k,Chicago,4466.4,114648,1167.5,2001-03-01,84,2343.3,Peterson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qcsr~y3fu.j6n9,Chicago,0.0,4115,372.9,2001-01-01,10,562.6,Museum of S & I
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rs96.gjfz_t8bp,Chicago,1681.2,41719,274.5,2001-03-01,68,726.9,Northwest Highway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-q29c~3pkp~hc4j,Chicago,21441.0,511938,8070.9,2001-02-01,66,12708.4,Chicago
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pgys.e6p3.zei7,Chicago,15910.2,411141,7379.1,2001-04-01,56,10032.7,Milwaukee
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ewet-y55v.wdty,Chicago,3804.7,99712,1455.0,2001-04-01,90,3134.3,Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5fgg-tjsb~rsji,Chicago,8074.3,203232,1831.2,2001-01-01,145,4110.5,Wilson/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2cqc.fc7c_3awq,Chicago,5787.1,160511,3014.3,2001-01-01,95E,4530.5,93rd-95th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3wv3.dfwu-3kvz,Chicago,6111.6,155563,2485.4,2001-04-01,35,3698.0,35th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-utau_xvge.b69n,Chicago,853.5,19209,0.0,2001-03-01,85A,86.5,North Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-x5fn-xgae_csdx,Chicago,1444.6,31781,0.0,2001-03-01,54A,0.0,North Cicero/Skokie Blvd.
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fif8~29k7~gypj,Chicago,4593.0,100781,0.0,2001-02-01,59,2230.1,59th/61st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-z888-sw9g-gax3,Chicago,5324.8,135270,1403.9,2001-03-01,73,2501.6,Armitage
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g7ii~jj4x-iig9,Chicago,14489.3,402803,7558.0,2001-01-01,81,11561.8,Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-i6jp~7swp-q4dg,Chicago,886.2,19495,0.0,2001-01-01,123,0.0,Illinois Center/Union Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-unn6_cr95~vy7f,Chicago,12500.6,341681,7056.8,2001-04-01,74,10971.2,Fullerton
+https://data.cityofchicago.org/resource/bynn-gwxy/row-56e4~tnnq.hkef,Chicago,3880.4,104289,1382.3,2001-01-01,90,3002.1,Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-n8sg-ydt2~6g4n,Chicago,3893.4,85655,0.0,2001-01-01,24,0.0,Wentworth
+https://data.cityofchicago.org/resource/bynn-gwxy/row-i9ma-3t8d-e5f2,Chicago,3196.5,89030,1336.2,2001-01-01,8A,3006.6,South Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vv2e.9uvt-bhf5,Chicago,6877.6,154768,1560.6,2001-02-01,44,2743.4,Wallace-Racine
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cuyi.q936-c7ha,Chicago,25366.7,692384,13393.1,2001-03-01,151,16148.9,Sheridan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8uev-cc7d.neee,Chicago,23907.9,595896,11797.6,2001-02-01,4,17637.0,Cottage Grove
+https://data.cityofchicago.org/resource/bynn-gwxy/row-c3ft.7zp3.wphb,Chicago,5447.5,149661,2860.6,2001-04-01,119,5239.8,Michigan/119th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-sqd3.annc~tdqq,Chicago,13431.4,366761,6310.6,2001-01-01,60,9929.4,Blue Island/26th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hptx~fkp6-mfey,Chicago,8069.8,220680,3490.7,2001-01-01,47,6422.7,47th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6pk2~iyqg_hfqx,Chicago,13872.6,368735,5214.9,2001-03-01,85,8535.9,Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-v5cw_vg4b~2ir9,Chicago,2358.1,57722,462.8,2001-03-01,106,798.5,East 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-e33x.imkk-3ech,Chicago,837.4,18423,0.0,2001-03-01,120,0.0,Ogilvie/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-bv2e-n9zr~mxyy,Chicago,1923.8,49130,642.3,2001-01-01,18,898.5,16th/18th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hxku.hd4k~fg3s,Chicago,23081.6,617646,8979.5,2001-03-01,3,14786.6,King Drive
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fq9n~xcuj.isx5,Chicago,9421.5,207273,0.0,2001-03-01,156,0.0,LaSalle
+https://data.cityofchicago.org/resource/bynn-gwxy/row-z22a_vyhx~ftqj,Chicago,6767.4,169373,2228.3,2001-04-01,65,4029.3,Grand
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6vh8~mup9.rv77,Chicago,4317.6,90671,0.0,2001-04-01,24,0.0,Wentworth
+https://data.cityofchicago.org/resource/bynn-gwxy/row-u96e_8quw~dxmg,Chicago,1101.5,23132,0.0,2001-04-01,48,0.0,South Damen
+https://data.cityofchicago.org/resource/bynn-gwxy/row-px69~2725-zsyk,Chicago,4569.0,112201,0.0,2001-03-01,59,2336.7,59th/61st
+https://data.cityofchicago.org/resource/bynn-gwxy/row-yuvg.pbty-mbqe,Chicago,287.9,5758,0.0,2001-02-01,170,0.0,U. of Chicago/Midway
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kipp~q55t~mikw,Chicago,253.0,9088,254.6,2001-01-01,173,562.1,U. of Chicago/Lakeview Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3ym6-5msj.zcbv,Chicago,1578.3,31565,0.0,2001-02-01,204,0.0,Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4az5-n6e3_9zyd,Chicago,466.2,8858,0.0,2001-02-01,69,0.0,Cumberland/East River
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5fyb-4aqy~rbmp,Chicago,1507.6,40042,437.3,2001-03-01,81W,1025.1,West Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2x9y_wvx7.izvq,Chicago,624.8,12496,0.0,2001-02-01,120,0.0,Ogilvie/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6tqp.725j-x36s,Chicago,11837.8,319117,5275.2,2001-01-01,80,8077.1,Irving Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9ngc~hexw_id5n,Chicago,15104.8,400659,7769.3,2001-04-01,60,11153.2,Blue Island/26th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-n44j~picv~96di,Chicago,21814.1,605727,11466.5,2001-01-01,63,17120.8,63rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2cw5-nre8~nigs,Chicago,3296.3,83212,1535.4,2001-02-01,8A,2786.2,South Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5q42~nude.mdid,Chicago,1700.7,35715,0.0,2001-04-01,121,0.0,Union/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jg8k_kdsf.7p5x,Chicago,5973.0,151193,2227.2,2001-04-01,111,3655.8,Pullman/111th/115th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dt3p_v2e3.ph4f,Chicago,1705.2,40925,939.9,2001-02-01,88,765.6,Higgins
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rgwk~5gb8~jsxn,Chicago,10738.1,265503,2287.1,2001-01-01,152,4457.2,Addison
+https://data.cityofchicago.org/resource/bynn-gwxy/row-2juq~dbc2_j4eu,Chicago,767.4,16390,0.0,2001-04-01,85A,68.5,North Central
+https://data.cityofchicago.org/resource/bynn-gwxy/row-iz8e.7jtg.9r3n,Chicago,1577.3,39738,337.6,2001-01-01,81W,837.2,West Lawrence
+https://data.cityofchicago.org/resource/bynn-gwxy/row-nnuv_hrmc~27gd,Chicago,8463.6,222711,3854.5,2001-04-01,47,6425.6,47th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-suuw-ipda.8e9h,Chicago,5977.7,153931,1810.1,2001-01-01,35,3342.5,35th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-3t5s.e5eu-pnr9,Chicago,5123.2,134195,2365.4,2001-04-01,49B,3695.2,North Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fvkv_5din_gv9c,Chicago,22428.9,596848,11831.8,2001-04-01,22,16670.5,Clark
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xd5d.atw9.59di,Chicago,1447.2,31155,0.0,2001-02-01,62H,552.9,Archer/Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-zwg4_4cd5.jnfb,Chicago,1717.8,45533,710.8,2001-03-01,18,979.8,16th/18th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-i9na~b3j3.u8vy,Chicago,295.5,6903,286.1,2001-02-01,19,331.3,United Center Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7jtn_c2wf.ap3x,Chicago,6113.8,142769,1877.1,2001-02-01,52A,3246.1,South Kedzie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4fhq~b2uk-r6hy,Chicago,16328.2,451955,8537.9,2001-01-01,29,12511.5,State
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xsqg~sgj3.vzmt,Chicago,14294.0,380431,5705.8,2001-03-01,76,8627.8,Diversey
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vi9y~ah5f.3qdz,Chicago,214.5,4290,0.0,2001-02-01,127,0.0,Madison/Roosevelt Circulator
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5ms8~nv68.dy34,Chicago,780.3,17166,0.0,2001-03-01,33,0.0,Mag Mile Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-rcda-wu2f-9h7z,Chicago,23732.1,666662,12432.2,2001-01-01,49,20598.9,Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5hnz-9kf4-k88z,Chicago,2487.0,52227,0.0,2001-04-01,37,0.0,Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-7tjn_p85b_yyrr,Chicago,1023.2,21488,0.0,2001-04-01,122,0.0,Illinois Center/Ogilvie Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g7wz.tdr3_apmw,Chicago,776.8,15536,0.0,2001-02-01,123,0.0,Illinois Center/Union Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ic9u~32fn~hw97,Chicago,13244.6,328710,7052.3,2001-02-01,55,8902.1,Garfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-967d~tev9~kjvs,Chicago,1053.4,21067,0.0,2001-02-01,122,0.0,Illinois Center/Ogilvie Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-tctd.6bmk~i4py,Chicago,12842.3,351804,5968.0,2001-01-01,74,9858.6,Fullerton
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kxai_rmta.sewq,Chicago,20741.7,502067,9279.6,2001-02-01,8,12528.9,Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-np7w_sapt.m63u,Chicago,31136.2,834240,16494.1,2001-04-01,9,24477.5,Ashland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ihj7.e3c8.b5jn,Chicago,17732.8,492091,9137.5,2001-03-01,29,13083.9,State
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5net-eivk_dqu5,Chicago,21206.2,577386,10462.2,2001-01-01,22,14634.5,Clark
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k2ak.nygq.8r7y,Chicago,20926.5,567184,9080.3,2001-03-01,77,14095.9,Belmont
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ve5w~egz4.8cn5,Chicago,3077.0,69836,650.2,2001-02-01,57,1423.8,Laramie
+https://data.cityofchicago.org/resource/bynn-gwxy/row-c846.yxvj_79ke,Chicago,19582.2,521892,8280.8,2001-01-01,8,12420.0,Halsted
+https://data.cityofchicago.org/resource/bynn-gwxy/row-jy87.rsbi_2cf9,Chicago,6875.1,144377,0.0,2001-04-01,1,0.0,Indiana/Hyde Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-xnv6.ivqj-88sz,Chicago,8484.3,186655,0.0,2001-01-01,14,0.0,Jeffery Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kwzh-wg6z-yhu7,Chicago,12843.1,320893,5978.7,2001-02-01,28,10029.1,Stony Island
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9874.d9jb.y7v5,Chicago,623.0,13083,0.0,2001-04-01,33,0.0,Mag Mile Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-k4wg-hw2v~x6jq,Chicago,2142.9,49929,479.7,2001-04-01,106,632.6,East 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vt69-6trg_mf96,Chicago,29265.4,811006,15336.1,2001-01-01,9,22621.7,Ashland
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6dz3-fji7-ene4,Chicago,5350.8,129844,1617.3,2001-04-01,73,2348.0,Armitage
+https://data.cityofchicago.org/resource/bynn-gwxy/row-hcpx.q7na-zair,Chicago,1281.3,28188,0.0,2001-01-01,54A,0.0,North Cicero/Skokie Blvd.
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ktbh~w7v7_rpyg,Chicago,3704.9,93121,1071.0,2001-01-01,103,1564.8,West 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ybte~8qwg_f4b3,Chicago,635.5,13982,0.0,2001-01-01,120,0.0,Ogilvie/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-4cdt_guvz~wdkr,Chicago,31499.9,845259,16940.5,2001-04-01,79,24764.6,79th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-parw.zibv-pkva,Chicago,20936.2,548856,10170.6,2001-04-01,53,14585.9,Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8wit~7xu7.9bwt,Chicago,243.4,5112,0.0,2001-04-01,64,0.0,Foster-Canfield
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wsg9~d7d2.nd5d,Chicago,2249.3,48884,0.0,2001-02-01,93,974.8,California/Dodge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gfu4-x77y~irxi,Chicago,8636.0,213107,3854.1,2001-02-01,47,6242.4,47th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-44c4_rjaa_gjzr,Chicago,820.5,18050,0.0,2001-03-01,129,0.0,West Loop/South Loop
+https://data.cityofchicago.org/resource/bynn-gwxy/row-sskg.8f5q_kubz,Chicago,1373.7,27474,0.0,2001-02-01,54A,0.0,North Cicero/Skokie Blvd.
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ij65~wf88.n55q,Chicago,11989.0,291736,5326.3,2001-02-01,80,7662.9,Irving Park
+https://data.cityofchicago.org/resource/bynn-gwxy/row-36iq_dqhv~wmdt,Chicago,9048.2,180965,0.0,2001-02-01,14,0.0,Jeffery Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-extc~ar82~z6i3,Chicago,0.0,2860,569.2,2001-03-01,124,860.9,Navy Pier
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ky4b.iskc~dmrk,Chicago,7459.4,188392,2728.1,2001-04-01,92,4526.3,Foster
+https://data.cityofchicago.org/resource/bynn-gwxy/row-23ds.q8x2_jdh7,Chicago,1177.7,23555,0.0,2001-02-01,100,0.0,Jeffery Manor Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-r7i7~dpzu.e3m4,Chicago,21726.0,589242,9466.2,2001-01-01,53,15984.4,Pulaski
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kni3~fiwe-det8,Chicago,2690.8,59197,0.0,2001-01-01,125,0.0,Water Tower Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qi6d_xnaw.8kwk,Chicago,494.3,10875,0.0,2001-03-01,202,0.0,Main/Emerson
+https://data.cityofchicago.org/resource/bynn-gwxy/row-esjv-issz~r976,Chicago,10961.1,291542,5758.9,2001-04-01,70,8141.3,Division
+https://data.cityofchicago.org/resource/bynn-gwxy/row-pnfv_6y7v-62ki,Chicago,7803.5,183443,2744.0,2001-02-01,92,4099.3,Foster
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ivnh_iztc.cm4g,Chicago,7081.7,188676,2795.5,2001-01-01,75,4725.3,74th-75th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-uhds_xhzh~fmt3,Chicago,811.5,16231,0.0,2001-02-01,129,0.0,West Loop/South Loop
+https://data.cityofchicago.org/resource/bynn-gwxy/row-kt3q-4exu-i2b9,Chicago,933.5,19198,56.8,2001-02-01,172,75.1,U. of Chicago/Kenwood
+https://data.cityofchicago.org/resource/bynn-gwxy/row-csjy-nkdd.frse,Chicago,14926.0,379135,4667.4,2001-01-01,62,6856.3,Archer
+https://data.cityofchicago.org/resource/bynn-gwxy/row-cisn-rxjq.2g37,Chicago,1701.3,41849,624.6,2001-04-01,88,749.7,Higgins
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5ixm_m5ds_b7hu,Chicago,578.0,12716,0.0,2001-03-01,17,0.0,Westchester
+https://data.cityofchicago.org/resource/bynn-gwxy/row-v7ub.8w7d.huak,Chicago,17481.6,433873,8857.2,2001-02-01,29,12203.1,State
+https://data.cityofchicago.org/resource/bynn-gwxy/row-66wp-jpae~6piw,Chicago,19622.7,511235,6745.8,2001-01-01,82,11451.6,Kimball-Homan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-t339.wu48.fxnm,Chicago,9206.2,220082,3353.7,2001-02-01,146,5636.2,Inner Drive/Michigan Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-y6f4.c9t4~hfsb,Chicago,750.8,16518,0.0,2001-03-01,123,0.0,Illinois Center/Union Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9jdv.p8dx_v7k7,Chicago,767.5,17163,0.0,2001-03-01,169,55.8,69th-UPS Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-5j2b-5h4t_399d,Chicago,9739.4,244988,0.0,2001-03-01,147,6144.3,Outer Drive Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-s2ep-9att~u32h,Chicago,3883.1,98619,1196.0,2001-03-01,103,1681.2,West 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-9tum~8tj5_cqxq,Chicago,13254.3,348404,4827.2,2001-01-01,76,8168.3,Diversey
+https://data.cityofchicago.org/resource/bynn-gwxy/row-f5d5_yqw2.pgxe,Chicago,360.1,7673,0.0,2001-02-01,90N,117.7,North Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-g5cj~67qn-mt4n,Chicago,1308.1,33863,368.7,2001-03-01,43,722.0,43rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-dnhz-p7fe~zm78,Chicago,1521.5,33473,0.0,2001-03-01,121,0.0,Union/Wacker Express
+https://data.cityofchicago.org/resource/bynn-gwxy/row-djmp~e4kq.v627,Chicago,417.2,8761,0.0,2001-01-01,69,0.0,Cumberland/East River
+https://data.cityofchicago.org/resource/bynn-gwxy/row-s47i~gpk7-mby5,Chicago,11037.6,303846,5414.0,2001-03-01,70,7872.4,Division
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ygeg-jacz_pxvm,Chicago,1396.1,31844,0.0,2001-04-01,62H,631.2,Archer/Harlem
+https://data.cityofchicago.org/resource/bynn-gwxy/row-c4tt~syfg.mm7u,Chicago,3448.7,86887,869.5,2001-01-01,11,1667.3,Lincoln/Sedgwick
+https://data.cityofchicago.org/resource/bynn-gwxy/row-49k6-xfbb~5df8,Chicago,12638.4,355619,6537.4,2001-03-01,54,10284.9,Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-qxau.qaju_adyk,Chicago,1275.3,31865,268.9,2001-01-01,201,615.9,Central/Ridge
+https://data.cityofchicago.org/resource/bynn-gwxy/row-m2ic_wb4v~v26v,Chicago,24336.2,688429,12524.6,2001-03-01,49,20586.9,Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-6a8j~k2wm.yv5s,Chicago,10711.3,258577,2758.7,2001-04-01,94,4961.7,South California
+https://data.cityofchicago.org/resource/bynn-gwxy/row-gvqv.gvpb~c2ar,Chicago,24154.8,656261,13436.6,2001-04-01,49,20457.0,Western
+https://data.cityofchicago.org/resource/bynn-gwxy/row-8gpr_fzcp-3yt6,Chicago,4775.5,134823,2377.5,2001-01-01,54B,4468.6,South Cicero
+https://data.cityofchicago.org/resource/bynn-gwxy/row-ezzr~m8nm.4v5s,Chicago,2663.3,57661,487.6,2001-02-01,106,611.2,East 103rd
+https://data.cityofchicago.org/resource/bynn-gwxy/row-shpv.zsax.43kh,Chicago,1162.0,23891,0.0,2001-02-01,55N,162.8,55th/Narragansett
+https://data.cityofchicago.org/resource/bynn-gwxy/row-mpm4~kn4r.imxj,Chicago,24656.8,600416,12550.0,2001-02-01,151,14270.0,Sheridan
+https://data.cityofchicago.org/resource/bynn-gwxy/row-fhk3_avku.ismu,Chicago,7650.9,190393,3525.7,2001-02-01,71,5818.3,71st/South Shore
+https://data.cityofchicago.org/resource/bynn-gwxy/row-vpcn.xskj_mtrp,Chicago,6336.0,168202,2448.9,2001-03-01,111,3802.9,Pullman/111th/115th
+https://data.cityofchicago.org/resource/bynn-gwxy/row-mruu.w25i.374h,Chicago,15417.4,418889,6853.7,2001-01-01,72,11359.3,North
+https://data.cityofchicago.org/resource/bynn-gwxy/row-wg3t~rtsw.tjzd,Chicago,8550.5,197013,2306.3,2001-02-01,91,4194.4,Austin
