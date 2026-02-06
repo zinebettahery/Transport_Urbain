@@ -1,0 +1,493 @@
+year,month,mode,ridership,city
+2019,1,Bus,459160,Philadelphia
+2019,1,CCT,4294,Philadelphia
+2019,1,Heavy Rail,296709,Philadelphia
+2019,1,Regional Rail,122856,Philadelphia
+2019,1,Trackless Trolley,16853,Philadelphia
+2019,1,Trolley,82787,Philadelphia
+2019,2,Bus,464674,Philadelphia
+2019,2,CCT,4652,Philadelphia
+2019,2,Heavy Rail,315858,Philadelphia
+2019,2,Regional Rail,121161,Philadelphia
+2019,2,Trackless Trolley,16812,Philadelphia
+2019,2,Trolley,82787,Philadelphia
+2019,3,Bus,478487,Philadelphia
+2019,3,CCT,6027,Philadelphia
+2019,3,Heavy Rail,308777,Philadelphia
+2019,3,Regional Rail,118228,Philadelphia
+2019,3,Trackless Trolley,18813,Philadelphia
+2019,3,Trolley,82433,Philadelphia
+2019,4,Bus,473732,Philadelphia
+2019,4,CCT,4805,Philadelphia
+2019,4,Heavy Rail,305491,Philadelphia
+2019,4,Regional Rail,124045,Philadelphia
+2019,4,Trackless Trolley,18934,Philadelphia
+2019,4,Trolley,84864,Philadelphia
+2019,5,Bus,480074,Philadelphia
+2019,5,CCT,5655,Philadelphia
+2019,5,Heavy Rail,303776,Philadelphia
+2019,5,Regional Rail,119187,Philadelphia
+2019,5,Trackless Trolley,19452,Philadelphia
+2019,5,Trolley,83413,Philadelphia
+2019,6,Bus,396720,Philadelphia
+2019,6,CCT,4924,Philadelphia
+2019,6,Heavy Rail,273813,Philadelphia
+2019,6,Regional Rail,113745,Philadelphia
+2019,6,Trackless Trolley,15639,Philadelphia
+2019,6,Trolley,73295,Philadelphia
+2019,7,Bus,401911,Philadelphia
+2019,7,CCT,4314,Philadelphia
+2019,7,Heavy Rail,263492,Philadelphia
+2019,7,Regional Rail,115144,Philadelphia
+2019,7,Trackless Trolley,15597,Philadelphia
+2019,7,Trolley,71573,Philadelphia
+2019,8,Bus,406865,Philadelphia
+2019,8,CCT,5649,Philadelphia
+2019,8,Heavy Rail,268150,Philadelphia
+2019,8,Regional Rail,114436,Philadelphia
+2019,8,Trackless Trolley,15313,Philadelphia
+2019,8,Trolley,75874,Philadelphia
+2019,9,Bus,501557,Philadelphia
+2019,9,CCT,4933,Philadelphia
+2019,9,Heavy Rail,321907,Philadelphia
+2019,9,Regional Rail,138481,Philadelphia
+2019,9,Trackless Trolley,19348,Philadelphia
+2019,9,Trolley,80939,Philadelphia
+2019,10,Bus,502857,Philadelphia
+2019,10,CCT,4687,Philadelphia
+2019,10,Heavy Rail,326562,Philadelphia
+2019,10,Regional Rail,133614,Philadelphia
+2019,10,Trackless Trolley,19793,Philadelphia
+2019,10,Trolley,80063,Philadelphia
+2019,11,Bus,490316,Philadelphia
+2019,11,CCT,6145,Philadelphia
+2019,11,Heavy Rail,322462,Philadelphia
+2019,11,Regional Rail,130761,Philadelphia
+2019,11,Trackless Trolley,18880,Philadelphia
+2019,11,Trolley,80113,Philadelphia
+2019,12,Bus,437027,Philadelphia
+2019,12,CCT,4595,Philadelphia
+2019,12,Heavy Rail,312677,Philadelphia
+2019,12,Regional Rail,128363,Philadelphia
+2019,12,Trackless Trolley,17282,Philadelphia
+2019,12,Trolley,78034,Philadelphia
+2020,1,Bus,493261,Philadelphia
+2020,1,CCT,4414,Philadelphia
+2020,1,Heavy Rail,311442,Philadelphia
+2020,1,Regional Rail,129953,Philadelphia
+2020,1,Trackless Trolley,18741,Philadelphia
+2020,1,Trolley,79713,Philadelphia
+2020,2,Bus,503967,Philadelphia
+2020,2,CCT,5075,Philadelphia
+2020,2,Heavy Rail,309414,Philadelphia
+2020,2,Regional Rail,125397,Philadelphia
+2020,2,Trackless Trolley,18226,Philadelphia
+2020,2,Trolley,82076,Philadelphia
+2020,3,Bus,414021,Philadelphia
+2020,3,CCT,3885,Philadelphia
+2020,3,Heavy Rail,191819,Philadelphia
+2020,3,Regional Rail,60912,Philadelphia
+2020,3,Trackless Trolley,14497,Philadelphia
+2020,3,Trolley,58641,Philadelphia
+2020,4,Bus,141411,Philadelphia
+2020,4,CCT,694,Philadelphia
+2020,4,Heavy Rail,44353,Philadelphia
+2020,4,Regional Rail,5168,Philadelphia
+2020,4,Trackless Trolley,4888,Philadelphia
+2020,4,Trolley,14870,Philadelphia
+2020,5,Bus,165838,Philadelphia
+2020,5,CCT,973,Philadelphia
+2020,5,Heavy Rail,52913,Philadelphia
+2020,5,Regional Rail,2016,Philadelphia
+2020,5,Trackless Trolley,6243,Philadelphia
+2020,5,Trolley,20611,Philadelphia
+2020,6,Bus,192334,Philadelphia
+2020,6,CCT,1056,Philadelphia
+2020,6,Heavy Rail,66216,Philadelphia
+2020,6,Regional Rail,8516,Philadelphia
+2020,6,Trackless Trolley,7677,Philadelphia
+2020,6,Trolley,27991,Philadelphia
+2020,7,Bus,203766,Philadelphia
+2020,7,CCT,1076,Philadelphia
+2020,7,Heavy Rail,86270,Philadelphia
+2020,7,Regional Rail,17381,Philadelphia
+2020,7,Trackless Trolley,7666,Philadelphia
+2020,7,Trolley,31135,Philadelphia
+2020,8,Bus,189252,Philadelphia
+2020,8,CCT,1611,Philadelphia
+2020,8,Heavy Rail,87788,Philadelphia
+2020,8,Regional Rail,18288,Philadelphia
+2020,8,Trackless Trolley,7963,Philadelphia
+2020,8,Trolley,26191,Philadelphia
+2020,9,Bus,205693,Philadelphia
+2020,9,CCT,1471,Philadelphia
+2020,9,Heavy Rail,96188,Philadelphia
+2020,9,Regional Rail,23479,Philadelphia
+2020,9,Trackless Trolley,7932,Philadelphia
+2020,9,Trolley,23834,Philadelphia
+2020,10,Bus,207445,Philadelphia
+2020,10,CCT,1588,Philadelphia
+2020,10,Heavy Rail,97333,Philadelphia
+2020,10,Regional Rail,22844,Philadelphia
+2020,10,Trackless Trolley,8510,Philadelphia
+2020,10,Trolley,23686,Philadelphia
+2020,11,Bus,193063,Philadelphia
+2020,11,CCT,2004,Philadelphia
+2020,11,Heavy Rail,88690,Philadelphia
+2020,11,Regional Rail,23836,Philadelphia
+2020,11,Trackless Trolley,7551,Philadelphia
+2020,11,Trolley,22903,Philadelphia
+2020,12,Bus,200729,Philadelphia
+2020,12,CCT,1314,Philadelphia
+2020,12,Heavy Rail,92190,Philadelphia
+2020,12,Regional Rail,23381,Philadelphia
+2020,12,Trackless Trolley,7431,Philadelphia
+2020,12,Trolley,24671,Philadelphia
+2021,1,Bus,184766,Philadelphia
+2021,1,CCT,1381,Philadelphia
+2021,1,Heavy Rail,88543,Philadelphia
+2021,1,Regional Rail,24283,Philadelphia
+2021,1,Trackless Trolley,6573,Philadelphia
+2021,1,Trolley,24608,Philadelphia
+2021,2,Bus,184944,Philadelphia
+2021,2,CCT,1399,Philadelphia
+2021,2,Heavy Rail,84876,Philadelphia
+2021,2,Regional Rail,15466,Philadelphia
+2021,2,Trackless Trolley,5884,Philadelphia
+2021,2,Trolley,24824,Philadelphia
+2021,3,Bus,208266,Philadelphia
+2021,3,CCT,2082,Philadelphia
+2021,3,Heavy Rail,94351,Philadelphia
+2021,3,Regional Rail,21225,Philadelphia
+2021,3,Trackless Trolley,7336,Philadelphia
+2021,3,Trolley,25485,Philadelphia
+2021,4,Bus,209824,Philadelphia
+2021,4,CCT,1833,Philadelphia
+2021,4,Heavy Rail,104843,Philadelphia
+2021,4,Regional Rail,21312,Philadelphia
+2021,4,Trackless Trolley,8331,Philadelphia
+2021,4,Trolley,27140,Philadelphia
+2021,5,Bus,216243,Philadelphia
+2021,5,CCT,3158,Philadelphia
+2021,5,Heavy Rail,109747,Philadelphia
+2021,5,Regional Rail,25380,Philadelphia
+2021,5,Trackless Trolley,8752,Philadelphia
+2021,5,Trolley,28242,Philadelphia
+2021,6,Bus,222345,Philadelphia
+2021,6,CCT,1564,Philadelphia
+2021,6,Heavy Rail,112267,Philadelphia
+2021,6,Regional Rail,28832,Philadelphia
+2021,6,Trackless Trolley,8289,Philadelphia
+2021,6,Trolley,30826,Philadelphia
+2021,7,Bus,232352,Philadelphia
+2021,7,CCT,1736,Philadelphia
+2021,7,Heavy Rail,115614,Philadelphia
+2021,7,Regional Rail,32582,Philadelphia
+2021,7,Trackless Trolley,8578,Philadelphia
+2021,7,Trolley,28434,Philadelphia
+2021,8,Bus,238176,Philadelphia
+2021,8,CCT,2478,Philadelphia
+2021,8,Heavy Rail,115936,Philadelphia
+2021,8,Regional Rail,33513,Philadelphia
+2021,8,Trackless Trolley,8269,Philadelphia
+2021,8,Trolley,30921,Philadelphia
+2021,9,Bus,291653,Philadelphia
+2021,9,CCT,2144,Philadelphia
+2021,9,Heavy Rail,151160,Philadelphia
+2021,9,Regional Rail,42560,Philadelphia
+2021,9,Trackless Trolley,10835,Philadelphia
+2021,9,Trolley,37844,Philadelphia
+2021,10,Bus,302979,Philadelphia
+2021,10,CCT,2236,Philadelphia
+2021,10,Heavy Rail,157350,Philadelphia
+2021,10,Regional Rail,53831,Philadelphia
+2021,10,Trackless Trolley,11480,Philadelphia
+2021,10,Trolley,37036,Philadelphia
+2021,11,Bus,293035,Philadelphia
+2021,11,CCT,2380,Philadelphia
+2021,11,Heavy Rail,150727,Philadelphia
+2021,11,Regional Rail,52291,Philadelphia
+2021,11,Trackless Trolley,11139,Philadelphia
+2021,11,Trolley,35881,Philadelphia
+2021,12,Bus,272915,Philadelphia
+2021,12,CCT,2351,Philadelphia
+2021,12,Heavy Rail,142023,Philadelphia
+2021,12,Regional Rail,47061,Philadelphia
+2021,12,Trackless Trolley,9677,Philadelphia
+2021,12,Trolley,34169,Philadelphia
+2022,1,Bus,243951,Philadelphia
+2022,1,CCT,2019,Philadelphia
+2022,1,Heavy Rail,115382,Philadelphia
+2022,1,Regional Rail,32407,Philadelphia
+2022,1,Trackless Trolley,7753,Philadelphia
+2022,1,Trolley,30631,Philadelphia
+2022,2,Bus,292800,Philadelphia
+2022,2,CCT,2309,Philadelphia
+2022,2,Heavy Rail,142654,Philadelphia
+2022,2,Regional Rail,48846,Philadelphia
+2022,2,Trackless Trolley,9078,Philadelphia
+2022,2,Trolley,40565,Philadelphia
+2022,3,Bus,303607,Philadelphia
+2022,3,CCT,2564,Philadelphia
+2022,3,Heavy Rail,145909,Philadelphia
+2022,3,Regional Rail,54994,Philadelphia
+2022,3,Trackless Trolley,10722,Philadelphia
+2022,3,Trolley,38122,Philadelphia
+2022,4,Bus,297311,Philadelphia
+2022,4,CCT,2677,Philadelphia
+2022,4,Heavy Rail,143797,Philadelphia
+2022,4,Regional Rail,54044,Philadelphia
+2022,4,Trackless Trolley,10035,Philadelphia
+2022,4,Trolley,35922,Philadelphia
+2022,5,Bus,313650,Philadelphia
+2022,5,CCT,2714,Philadelphia
+2022,5,Heavy Rail,140826,Philadelphia
+2022,5,Regional Rail,51962,Philadelphia
+2022,5,Trackless Trolley,10504,Philadelphia
+2022,5,Trolley,38581,Philadelphia
+2022,6,Bus,262689,Philadelphia
+2022,6,CCT,2631,Philadelphia
+2022,6,Heavy Rail,130480,Philadelphia
+2022,6,Regional Rail,55791,Philadelphia
+2022,6,Trackless Trolley,9227,Philadelphia
+2022,6,Trolley,35000,Philadelphia
+2022,7,Bus,272936,Philadelphia
+2022,7,CCT,2743,Philadelphia
+2022,7,Heavy Rail,120182,Philadelphia
+2022,7,Regional Rail,51583,Philadelphia
+2022,7,Trackless Trolley,8734,Philadelphia
+2022,7,Trolley,34354,Philadelphia
+2022,8,Bus,272216,Philadelphia
+2022,8,CCT,2742,Philadelphia
+2022,8,Heavy Rail,128345,Philadelphia
+2022,8,Regional Rail,53394,Philadelphia
+2022,8,Trackless Trolley,8728,Philadelphia
+2022,8,Trolley,44765,Philadelphia
+2022,9,Bus,341880,Philadelphia
+2022,9,CCT,2864,Philadelphia
+2022,9,Heavy Rail,147378,Philadelphia
+2022,9,Regional Rail,62122,Philadelphia
+2022,9,Trackless Trolley,10641,Philadelphia
+2022,9,Trolley,39475,Philadelphia
+2022,10,Bus,340544,Philadelphia
+2022,10,CCT,2857,Philadelphia
+2022,10,Heavy Rail,156381,Philadelphia
+2022,10,Regional Rail,63954,Philadelphia
+2022,10,Trackless Trolley,11084,Philadelphia
+2022,10,Trolley,39046,Philadelphia
+2022,11,Bus,338481,Philadelphia
+2022,11,CCT,2851,Philadelphia
+2022,11,Heavy Rail,145873,Philadelphia
+2022,11,Regional Rail,64215,Philadelphia
+2022,11,Trackless Trolley,10195,Philadelphia
+2022,11,Trolley,40666,Philadelphia
+2022,12,Bus,299614,Philadelphia
+2022,12,CCT,2869,Philadelphia
+2022,12,Heavy Rail,136539,Philadelphia
+2022,12,Regional Rail,60226,Philadelphia
+2022,12,Trackless Trolley,9677,Philadelphia
+2022,12,Trolley,37275,Philadelphia
+2023,1,Bus,319605,Philadelphia
+2023,1,CCT,2834,Philadelphia
+2023,1,Heavy Rail,142909,Philadelphia
+2023,1,Regional Rail,62311,Philadelphia
+2023,1,Trackless Trolley,8931,Philadelphia
+2023,1,Trolley,39738,Philadelphia
+2023,2,Bus,342049,Philadelphia
+2023,2,CCT,2882,Philadelphia
+2023,2,Heavy Rail,144909,Philadelphia
+2023,2,Regional Rail,64720,Philadelphia
+2023,2,Trackless Trolley,8742,Philadelphia
+2023,2,Trolley,44706,Philadelphia
+2023,3,Bus,341407,Philadelphia
+2023,3,CCT,2982,Philadelphia
+2023,3,Heavy Rail,137699,Philadelphia
+2023,3,Regional Rail,66514,Philadelphia
+2023,3,Trackless Trolley,9594,Philadelphia
+2023,3,Trolley,39744,Philadelphia
+2023,4,Bus,336495,Philadelphia
+2023,4,CCT,2952,Philadelphia
+2023,4,Heavy Rail,138287,Philadelphia
+2023,4,Regional Rail,66900,Philadelphia
+2023,4,Trackless Trolley,9656,Philadelphia
+2023,4,Trolley,38427,Philadelphia
+2023,5,Bus,359462,Philadelphia
+2023,5,CCT,2985,Philadelphia
+2023,5,Heavy Rail,143856,Philadelphia
+2023,5,Regional Rail,65979,Philadelphia
+2023,5,Trackless Trolley,10310,Philadelphia
+2023,5,Trolley,47563,Philadelphia
+2023,6,Bus,302745,Philadelphia
+2023,6,CCT,2981,Philadelphia
+2023,6,Heavy Rail,134429,Philadelphia
+2023,6,Regional Rail,66067,Philadelphia
+2023,6,Trackless Trolley,8757,Philadelphia
+2023,6,Trolley,43548,Philadelphia
+2023,7,Bus,297469,Philadelphia
+2023,7,CCT,2921,Philadelphia
+2023,7,Heavy Rail,129900,Philadelphia
+2023,7,Regional Rail,61204,Philadelphia
+2023,7,Trackless Trolley,8734,Philadelphia
+2023,7,Trolley,40544,Philadelphia
+2023,8,Bus,307127,Philadelphia
+2023,8,CCT,2972,Philadelphia
+2023,8,Heavy Rail,141078,Philadelphia
+2023,8,Regional Rail,60123,Philadelphia
+2023,8,Trackless Trolley,9034,Philadelphia
+2023,8,Trolley,44092,Philadelphia
+2023,9,Bus,367249,Philadelphia
+2023,9,CCT,3044,Philadelphia
+2023,9,Heavy Rail,181826,Philadelphia
+2023,9,Regional Rail,70733,Philadelphia
+2023,9,Trackless Trolley,11027,Philadelphia
+2023,9,Trolley,50049,Philadelphia
+2023,10,Bus,378441,Philadelphia
+2023,10,CCT,3095,Philadelphia
+2023,10,Heavy Rail,192092,Philadelphia
+2023,10,Regional Rail,74307,Philadelphia
+2023,10,Trackless Trolley,11875,Philadelphia
+2023,10,Trolley,52658,Philadelphia
+2023,11,Bus,368386,Philadelphia
+2023,11,CCT,3089,Philadelphia
+2023,11,Heavy Rail,182370,Philadelphia
+2023,11,Regional Rail,76946,Philadelphia
+2023,11,Trackless Trolley,10384,Philadelphia
+2023,11,Trolley,49494,Philadelphia
+2023,12,Bus,347255,Philadelphia
+2023,12,CCT,3138,Philadelphia
+2023,12,Heavy Rail,171378,Philadelphia
+2023,12,Regional Rail,72460,Philadelphia
+2023,12,Trackless Trolley,9159,Philadelphia
+2023,12,Trolley,48402,Philadelphia
+2024,1,Bus,343510,Philadelphia
+2024,1,CCT,2744,Philadelphia
+2024,1,Heavy Rail,169013,Philadelphia
+2024,1,Regional Rail,69804,Philadelphia
+2024,1,Trackless Trolley,8426,Philadelphia
+2024,1,Trolley,53846,Philadelphia
+2024,2,Bus,374784,Philadelphia
+2024,2,CCT,3054,Philadelphia
+2024,2,Regional Rail,77066,Philadelphia
+2024,2,Heavy Rail,180105,Philadelphia
+2024,2,Trolley,54088,Philadelphia
+2024,2,Trackless Trolley,9206,Philadelphia
+2024,3,Bus,344983,Philadelphia
+2024,3,CCT,3177,Philadelphia
+2024,3,Regional Rail,78463,Philadelphia
+2024,3,Heavy Rail,172117,Philadelphia
+2024,3,Trolley,50445,Philadelphia
+2024,3,Trackless Trolley,8405,Philadelphia
+2024,4,Bus,362983,Philadelphia
+2024,4,CCT,3164,Philadelphia
+2024,4,Regional Rail,79247,Philadelphia
+2024,4,Heavy Rail,195409,Philadelphia
+2024,4,Trolley,53229,Philadelphia
+2024,4,Trackless Trolley,12327,Philadelphia
+2024,5,Bus,381468,Philadelphia
+2024,5,CCT,3187,Philadelphia
+2024,5,Regional Rail,79261,Philadelphia
+2024,5,Heavy Rail,190688,Philadelphia
+2024,5,Trolley,52956,Philadelphia
+2024,5,Trackless Trolley,13420,Philadelphia
+2024,6,Bus,341764,Philadelphia
+2024,6,CCT,3187,Philadelphia
+2024,6,Regional Rail,75509,Philadelphia
+2024,6,Heavy Rail,186343,Philadelphia
+2024,6,Trolley,46640,Philadelphia
+2024,6,Trackless Trolley,11640,Philadelphia
+2024,7,Bus,322859,Philadelphia
+2024,7,CCT,3000,Philadelphia
+2024,7,Regional Rail,74700,Philadelphia
+2024,7,Heavy Rail,187200,Philadelphia
+2024,7,Trolley,41973,Philadelphia
+2024,7,Trackless Trolley,10682,Philadelphia
+2024,8,Bus,334527,Philadelphia
+2024,8,CCT,3057,Philadelphia
+2024,8,Regional Rail,74066,Philadelphia
+2024,8,Heavy Rail,205179,Philadelphia
+2024,8,Trolley,47908,Philadelphia
+2024,8,Trackless Trolley,11075,Philadelphia
+2024,9,Bus,401877,Philadelphia
+2024,9,CCT,3139,Philadelphia
+2024,9,Regional Rail,84360,Philadelphia
+2024,9,Heavy Rail,230261,Philadelphia
+2024,9,Trolley,61949,Philadelphia
+2024,9,Trackless Trolley,13804,Philadelphia
+2024,10,Bus,405318,Philadelphia
+2024,10,CCT,3236,Philadelphia
+2024,10,Regional Rail,87030,Philadelphia
+2024,10,Heavy Rail,230653,Philadelphia
+2024,10,Trolley,61634,Philadelphia
+2024,10,Trackless Trolley,13741,Philadelphia
+2024,11,Bus,382848,Philadelphia
+2024,11,CCT,3145,Philadelphia
+2024,11,Regional Rail,86498,Philadelphia
+2024,11,Heavy Rail,222197,Philadelphia
+2024,11,Trolley,57629,Philadelphia
+2024,11,Trackless Trolley,12902,Philadelphia
+2024,12,Bus,350305,Philadelphia
+2024,12,CCT,3100,Philadelphia
+2024,12,Regional Rail,80600,Philadelphia
+2024,12,Heavy Rail,204500,Philadelphia
+2024,12,Trolley,52008,Philadelphia
+2024,12,Trackless Trolley,11359,Philadelphia
+2025,1,Bus,354820,Philadelphia
+2025,1,CCT,2831,Philadelphia
+2025,1,Regional Rail,76737,Philadelphia
+2025,1,Heavy Rail,205867,Philadelphia
+2025,1,Trolley,53668,Philadelphia
+2025,1,Trackless Trolley,11926,Philadelphia
+2025,2,Bus,375744,Philadelphia
+2025,2,CCT,2300,Philadelphia
+2025,2,Regional Rail,88400,Philadelphia
+2025,2,Heavy Rail,217100,Philadelphia
+2025,2,Trolley,58386,Philadelphia
+2025,2,Trackless Trolley,12007,Philadelphia
+2025,3,Bus,382227,Philadelphia
+2025,3,CCT,3200,Philadelphia
+2025,3,Regional Rail,84800,Philadelphia
+2025,3,Heavy Rail,204400,Philadelphia
+2025,3,Trolley,59188,Philadelphia
+2025,3,Trackless Trolley,12691,Philadelphia
+2025,4,Bus,377072,Philadelphia
+2025,4,CCT,3100,Philadelphia
+2025,4,Regional Rail,84300,Philadelphia
+2025,4,Heavy Rail,214900,Philadelphia
+2025,4,Trolley,58964,Philadelphia
+2025,4,Trackless Trolley,12342,Philadelphia
+2025,5,Bus,387744,Philadelphia
+2025,5,CCT,3228,Philadelphia
+2025,5,Regional Rail,84666,Philadelphia
+2025,5,Heavy Rail,220334,Philadelphia
+2025,5,Trolley,59762,Philadelphia
+2025,5,Trackless Trolley,12557,Philadelphia
+2025,6,Bus,345285,Philadelphia
+2025,6,CCT,3185,Philadelphia
+2025,6,Regional Rail,80214,Philadelphia
+2025,6,Heavy Rail,215302,Philadelphia
+2025,6,Trolley,52876,Philadelphia
+2025,6,Trackless Trolley,11018,Philadelphia
+2025,7,Bus,334079,Philadelphia
+2025,7,CCT,3137,Philadelphia
+2025,7,Regional Rail,81331,Philadelphia
+2025,7,Heavy Rail,199095,Philadelphia
+2025,7,Trolley,41973,Philadelphia
+2025,7,Trackless Trolley,10142,Philadelphia
+2025,8,Bus,331653,Philadelphia
+2025,8,CCT,3133,Philadelphia
+2025,8,Regional Rail,75494,Philadelphia
+2025,8,Heavy Rail,197618,Philadelphia
+2025,8,Trolley,43687,Philadelphia
+2025,8,Trackless Trolley,10510,Philadelphia
+2025,9,Bus,377001,Philadelphia
+2025,9,CCT,3156,Philadelphia
+2025,9,Regional Rail,90523,Philadelphia
+2025,9,Heavy Rail,223428,Philadelphia
+2025,9,Trolley,54951,Philadelphia
+2025,9,Trackless Trolley,12830,Philadelphia
+2025,10,Bus,392615,Philadelphia
+2025,10,CCT,3154,Philadelphia
+2025,10,Regional Rail,80635,Philadelphia
+2025,10,Heavy Rail,228969,Philadelphia
+2025,10,Trolley,61570,Philadelphia
+2025,10,Trackless Trolley,12758,Philadelphia
