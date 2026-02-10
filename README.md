@@ -85,6 +85,3 @@ All fact tables are connected only through time dimensions to ensure consistent 
 
 ---
 
-## 👤 Author
-Data Analyst Project – Urban Transport  
-February 2026
